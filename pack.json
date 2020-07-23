@@ -1,0 +1,11 @@
+{
+  "addonType":"security",
+  "cloudType": "all",
+  "displayName": "Vault",
+  "charts": [
+    "charts/vault.tgz"
+  ],
+  "layer":"addon",
+  "name": "vault",
+  "version": "0.3.1"
+}
